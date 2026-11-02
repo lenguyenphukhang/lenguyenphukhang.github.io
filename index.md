@@ -1,20 +1,17 @@
----
-title: Hồ sơ nhập ngành
----
 
-# Nguyễn Văn An
+# Lê Nguyễn Phú Khang
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
      Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
 
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · đang đi về hướng An ninh mạng
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+-3 bảng CV, 2 chỗ bắt AI tự thêm → [career.md](career.md)
+- 8 học kì, 1 bảng lộ trình lớn → [roadmap.md](roadmap.md)
+- 5 câu hỏi, 5 quy tắc dùng AI → [ai-audit.md](ai-audit.md)
 
-…@… · <https://…github.io>
+…@… · <https://lenguyenphukhang.github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
