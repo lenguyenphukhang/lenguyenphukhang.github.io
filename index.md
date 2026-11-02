@@ -7,7 +7,7 @@
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng An ninh mạng
 
--3 bảng CV, 2 chỗ bắt AI tự thêm → [career.md](career.md)
+-3 bảng CV, 2 chỗ bắt AI tự thêm → [career.md](career.html)
 - 8 học kì, 1 bảng lộ trình lớn → [roadmap.md](roadmap.md)
 - 5 câu hỏi, 5 quy tắc dùng AI → [ai-audit.md](ai-audit.md)
 
