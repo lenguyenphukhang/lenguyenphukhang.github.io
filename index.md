@@ -24,7 +24,7 @@ Sáu bài, sáu trang, một hành trình.
 |---|---|---|
 | 1 | [Chân dung nghề của tôi](career.md) | Tôi nhắm hướng nào, và dựa vào đâu |
 | 2 | [Bản đồ học tập bốn năm](roadmap.md) | Tám học kỳ, tự tay xếp |
-| 3 | [Cẩm nang làm việc nhóm](team.md) | Nhóm tôi làm việc với nhau thế nào |
+| 3 | [Cẩm nang làm việc nhóm](team.html) | Nhóm tôi làm việc với nhau thế nào |
 | 4 | [Dấu chân số của tôi](digital.md) | Bảy nhóm năng lực số, kèm bằng chứng |
 | 5 | [Soi một công cụ AI](ai-audit.md) | Thí nghiệm nhỏ, và năm quy tắc của tôi |
 | 6 | [Nhìn lại học kỳ](reflection.md) | Tôi đã thay đổi thế nào |
