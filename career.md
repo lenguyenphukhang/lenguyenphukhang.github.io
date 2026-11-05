@@ -6,9 +6,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-em đang hướng tới An ninh Mạng
+Tôi đang hướng tới An ninh Mạng
 
-Vì sao: vì ba mẹ định hướng
+Tôi dành sự quan tâm lớn đối với bảo mật của bản thân và khách hàng, đặc biệt trên không gian mạng cũng như cách thức mà kẻ gian có thể lợi dụng lỗ hổng để tấn công hệ thống nhằm thực hiện các hành vi lừa đảo. Vì vậy tôi nghĩ đây là hướng đi phù hợp cho bản thân tôi
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -29,21 +29,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 2   | Công Ty cổ phần AV Plus | Tòa nhà Roman Plaza, Tố Hữu, Hà Nội | https://jobsgo.vn/viec-lam/ky-su-an-ninh-mang-29041936881.html | 1/11/2026 |
 | 3   | Công Ty TNHH XD-TMPT Công Nghệ Số Việt Nam | Việc làm tại nhà | https://viecoi.vn/viec-lam/ky-thuat-cntt-phan-cung-tai-thanh-hoa-133745.html | 1/11/2026 |
 
-Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
-## Hai chỗ AI tự thêm mà tôi bắt được
 
-**Chỗ thứ nhất**
-
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
-
-**Chỗ thứ hai**
-
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
 
 ## Một quyết định đạo đức
 
